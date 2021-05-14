@@ -160,6 +160,15 @@ Stock Photos
   background: transparent;
   color: var(--clr-grey-5);
   border-bottom: 3px solid var(--clr-grey-5);
+  outline: none;
+}
+
+.submit-btn {
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  color: var(--clr-grey-7);
 }
 .form-input {
   color: var(--clr-grey-3);
